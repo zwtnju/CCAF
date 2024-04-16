@@ -20,19 +20,19 @@ For APCA, CMG and JDP tasks, we provide three shell scripts for running our meth
 Execute following command at the root of the project to run CodeT5:
 ```shell
 cd cmg/code
-python run.sh
+bash run.sh
 ```
 
 Execute following command at the root of the project to run CodeT5<sub>adapter</sub>:
 ```shell
 cd cmg/code
-python run_adapter.sh
+bash run_adapter.sh
 ```
 
 Execute following command at the root of the project to run CCAF:
 ```shell
 cd cmg/code
-python run_adapterfusion.sh
+bash run_adapterfusion.sh
 ```
 
 More hyperparameter settings can be found in each script.
