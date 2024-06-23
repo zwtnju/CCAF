@@ -12,7 +12,7 @@ You should al least install following packages to run our code:
 The full list of dependencies is listed in `requirements.txt`.
 
 ## Dataset
-You can download the data for CMG and JDP tasks from this link: [ccaf_dataset.zip](https://drive.google.com/file/d/1StocfPcj4PYanHhv416HJp0R61J5KtMB/view?usp=drive_link).
+You can download the data for CMG and JDP tasks from this link: [ccaf_dataset.zip](https://drive.google.com/file/d/1mmX_CidFR4Q5KAvuFz4EauD2yNqy9Si7/view?usp=sharing).
 
 ## Run CCAF
 For APCA, CMG and JDP tasks, we provide three shell scripts for running our methods and we use the CMG task as an example.
